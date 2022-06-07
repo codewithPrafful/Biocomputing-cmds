@@ -1,7 +1,8 @@
+#here_is_task_begins
    36  mkdir Prafful
    38  mkdir Biocomputing && cd Biocomputing
    39  wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna 
-   40  wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
+   40  wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gb
    41  ls
    42  mv wildtype.fna ../Prafful/
    51  rm wildtype.gbk.1
