@@ -1,4 +1,6 @@
 #here_is_task_begins
+#story_one
+
    36  mkdir Prafful
    38  mkdir Biocomputing && cd Biocomputing
    39  wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna 
@@ -10,6 +12,9 @@
    70  grep "tatatata" wildtype.fna > mutant
    73  cd ../
    75  clear && history
+   #end_of_story_one
+   #story_two
+   
    89  sudo apt install figlet
    90  figlet Prafful Sharma 
        echo #cosway_not_working
@@ -33,3 +38,4 @@
   146  cd FastQ_Data
   147  wc -l lane8_DD_P4_TTAGGC_L008_R1.fastq.gz
   152  wc -l *.gz > total_lines.txt
+  #end_of_story_two
